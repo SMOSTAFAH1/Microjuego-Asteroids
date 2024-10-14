@@ -7,3 +7,5 @@ Para poder probar y jugar este maravilloso juego simplemente iros al "Releases" 
 También lo podeis ver y descargarlo desde aquí:
 
 https://gitlab.com/SMOSTAFAH1/Microjuego-Asteroids/-/tree/main/jugar
+
+https://smostafah1.itch.io/asteroids
